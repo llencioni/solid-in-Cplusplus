@@ -14,7 +14,7 @@ It stands for:
 
 **D** --> Dependency inversion
 
-This repository contains practical examples implementing SOLID principles in C++.
+This repository contains practical examples (collect over the internet) implementing SOLID principles in C++.
 
 
 # References
