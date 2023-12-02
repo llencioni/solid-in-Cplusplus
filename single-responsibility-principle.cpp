@@ -4,6 +4,8 @@
 *
 * (One way of do it would be join all methods into a single class User ... not a good programming principle!)
 *
+* "User" has 2 responsibilities = 1) authentication (login and logout) and 2) printing
+*
 ****************************************************/
 
 class Authentication {
