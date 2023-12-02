@@ -6,8 +6,7 @@ It stands for:
 
 **S** --> **Single responsability principle**
 
-**O** --> **Open-close principle**
-SW Components,such as classes, modules, function, etc, should be open for extension but close for modifications
+**O** --> **Open-close principle** (SW Components,such as classes, modules, function, etc, should be open for extension but close for modifications)
 
 **L** --> **Liskov principle**
 
