@@ -23,6 +23,8 @@ https://www.linkedin.com/pulse/understanding-solid-c-single-responsibility-princ
 
 https://www.linkedin.com/pulse/understanding-solid-c-open-closed-principle-abhishek-anand
 
+https://www.linkedin.com/pulse/understanding-solid-c-liskov-substitution-principle-abhishek-anand
+
 https://www.linkedin.com/pulse/understanding-solid-c-interface-segregation-principle-abhishek-anand
 
 https://www.quora.com/Whats-the-difference-between-SOLID-principles-and-Design-Patterns
