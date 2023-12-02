@@ -4,13 +4,13 @@ S.O.L.I.D is a acronym for a set of principles in Object Oriented Programming (O
 
 It stands for:
 
-**S** --> **Single responsability principle**
+**S** --> **Single responsability principle** (a class should have only one reason to change, or a class should have just one responsability)
 
 **O** --> **Open-close principle** (SW Components,such as classes, modules, function, etc, should be open for extension but close for modifications)
 
-**L** --> **Liskov principle**
+**L** --> **Liskov principle** (objects of a superclass can be should be replaceable with objects of subclass without altering the correctness of program)
 
-**I** --> **Interface segregation**
+**I** --> **Interface segregation** (clients should not be forced to depend on methods that they don’t need)
 
 **D** --> **Dependency inversion**
 
